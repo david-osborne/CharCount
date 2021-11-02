@@ -1,0 +1,10 @@
+C:\Users\dwe3sd\source\repos\CharCount\bin\Debug\CharCount.exe.config
+C:\Users\dwe3sd\source\repos\CharCount\bin\Debug\CharCount.exe
+C:\Users\dwe3sd\source\repos\CharCount\bin\Debug\CharCount.pdb
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.csprojAssemblyReference.cache
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.Form1.resources
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.Properties.Resources.resources
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.csproj.GenerateResource.cache
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.csproj.CoreCompileInputs.cache
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.exe
+C:\Users\dwe3sd\source\repos\CharCount\obj\Debug\CharCount.pdb
